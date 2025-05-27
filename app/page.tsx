@@ -24,7 +24,7 @@ export default function Portfolio() {
           <div className="flex flex-col lg:flex-row items-center justify-center gap-12 max-w-7xl mx-auto">
             <div className="flex-shrink-0">
               <div className="relative w-64 h-64 rounded-full overflow-hidden border-4 border-white shadow-2xl">
-                <Image src="/wahid-photo.jpg" alt="Md. Wahid Akter" fill className="object-cover" />
+                <Image src="/wahid-photo2.jpg" alt="Md. Wahid Akter" fill className="object-cover" />
               </div>
             </div>
             <div className="flex-1 text-center lg:text-left max-w-2xl">
